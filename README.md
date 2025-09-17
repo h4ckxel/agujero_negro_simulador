@@ -1,1 +1,1 @@
-# agujero_negro_simulador
+# agujero_negro_simulado
